@@ -1,10 +1,10 @@
-###English version
+### English version
 
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Severino Ribeiro Neto!
 
 
-###Versão em Português
+### Versão em Português
 
 # 👋 Olá! Bem vindo ao meu perfil do Github.
 ## Meu nome é Severino Ribeiro Neto!
