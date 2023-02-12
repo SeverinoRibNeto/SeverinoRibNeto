@@ -3,12 +3,15 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Severino Ribeiro Neto!
 
+I'm a back-end developer and I'm focused on the python language. I developed some projects, seeking to further develop the skills I have.
+
 
 ### Versão em Português
 
 # 👋 Olá! Bem vindo ao meu perfil do Github.
 ## Meu nome é Severino Ribeiro Neto!
 
+Sou desenvolvedor back-end e estou focado na linguagem python. Desenvolvi alguns projetos, buscando desenvolver mais as habilidades que tenho.
 
 ## Contatos:
 
