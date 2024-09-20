@@ -3,14 +3,14 @@
 # 👋 Hello! Welcome to my GitHub profile.
 ## My name is Severino Ribeiro Neto!
 
-I'm a **Data Analyst** and **Back-end Developer**, with a focus on **Python**. I specialize in **ETL processes**, data integration, and automation using **APIs**. My projects include creating **Power BI dashboards**, automating processes, and developing solutions using frameworks like **Django** and **Flask**. I'm constantly looking to enhance my skills by tackling new challenges and building robust applications.
+I'm a **Data Analyst** and **Back-end Developer**, with a focus on **Python**. I specialize in **ETL processes**, data integration, and automation. My projects include creating **Power BI dashboards**, automating processes, and developing solutions using frameworks like **Django** and **Flask**. I'm constantly looking to enhance my skills by tackling new challenges and building robust applications.
 
 ### Versão em Português
 
 # 👋 Olá! Bem-vindo ao meu perfil do GitHub.
 ## Meu nome é Severino Ribeiro Neto!
 
-Sou **Analista de Dados** e **Desenvolvedor Back-end**, com foco em **Python**. Especializo-me em processos de **ETL**, integração de dados e automação utilizando **APIs**. Meus projetos incluem a criação de **dashboards no Power BI**, automação de processos e o desenvolvimento de soluções usando frameworks como **Django** e **Flask**. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e construir aplicações robustas.
+Sou **Analista de Dados** e **Desenvolvedor Back-end**, com foco em **Python**. Especializo-me em processos de **ETL**, integração de dados e automação. Meus projetos incluem a criação de **dashboards no Power BI**, automação de processos e o desenvolvimento de soluções usando frameworks como **Django**, **Flask**. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e construir aplicações robustas.
 
 ## Contatos:
 
